@@ -1,6 +1,6 @@
 [core]
 	excludesfile = /Users/neoman/.gitignore_global
-	editor = atom --wait
+	editor = atom
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
@@ -16,7 +16,7 @@
 	type = cat-file -t
 	dump = cat-file -p
 [user]
-	name = 
-	email = 
+	name = 0oneo
+	email = neoman.v@gmail.com
 [commit]
 	template = /Users/neoman/.stCommitMsg
